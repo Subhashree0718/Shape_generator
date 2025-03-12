@@ -8,6 +8,13 @@ This project generates a heart-shaped border (perimeter) using Python and Matplo
 - Includes grid lines, labeled axes, and a legend for clarity.
 - Customizable color, size, and line styles.
 
+## Usage
+Clone the repository and run the script:
+
+git clone https://github.com/yourusername/heart-shape-border.git
+cd heart-shape-border
+python heart_shape.py
+
 ## Prerequisites
 Ensure you have Python installed along with the following dependencies:
 ```bash
